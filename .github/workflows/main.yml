@@ -16,4 +16,4 @@ jobs:
           plugin_isocalendar : yes
           plugin_isocalendar_duration : half-year
           config_timezone : America/Chicago
-          
+          plugin_languages : yes
