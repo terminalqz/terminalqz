@@ -9,3 +9,5 @@ Here's a little bit about my activity on GitHub:
 
 ![Metrics](/github-metrics.svg)
 
+
+ Proficient in Python and Lua. 
